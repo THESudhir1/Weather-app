@@ -1,0 +1,12 @@
+B27288092189AECDF4B1C326B3FBCC95D5C1
+
+
+Your security token is f6a133fa-464c-4bd6-bbbc-422b8c3d777c Please take note of this.
+
+
+smtp.elasticemail.com
+
+telnet smtp.elasticemail.com 2525
+
+
+8dcfbab3-4298-4e68-98cd-65a279d09137
